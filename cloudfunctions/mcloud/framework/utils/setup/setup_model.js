@@ -1,7 +1,7 @@
 /**
  * Notes: 系统设置实体
  * Ver : CCMiniCloud Framework 2.0.15 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2020-11-05 19:20:00 
+ * Date: 2025-11-05 19:20:00 
  */
 
 

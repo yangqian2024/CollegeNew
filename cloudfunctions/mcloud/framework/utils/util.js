@@ -1,7 +1,7 @@
 /**
  * Notes: 通用工具函数
  * Ver : CCMiniCloud Framework 2.38.1 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2020-09-05 04:00:00 
+ * Date: 2025-09-05 04:00:00 
  */
 
 function getProjectId() {

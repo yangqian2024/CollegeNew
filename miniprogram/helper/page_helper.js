@@ -1,7 +1,7 @@
 /**
  * Notes: 通用页面操作类库
  * Ver : CCMiniCloud Framework 2.0.11 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2020-11-14 07:48:00 
+ * Date: 2025-11-14 07:48:00 
  */
 
 const helper = require('./helper.js');

@@ -1,7 +1,7 @@
 /**
  * Notes: 云函数非标业务处理
  * Ver : CCMiniCloud Framework 2.6.1 ALL RIGHTS RESERVED BY ccLinux@qq.com
- * Date: 2021-10-21 04:00:00 
+ * Date: 2025-10-21 04:00:00 
  */
 
 function handlerOther(event) {

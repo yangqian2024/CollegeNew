@@ -1,7 +1,7 @@
 /**
  * Notes: 错误代码定义
  * Ver : CCMiniCloud Framework 2.4.1 ALL RIGHTS RESERVED BY Cclinux0730 (wechat)
- * Date: 2020-09-05 04:00:00 
+ * Date: 2025-09-05 04:00:00 
  */
 module.exports = {
 	SUCC: 200,

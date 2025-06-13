@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/89080542/194086302-70f1beb9-4b8f-459a-b16b-42c280d0a682.png)
 
-
+  
 
 ## 技术运用
 - 本项目使用微信小程序平台进行开发。

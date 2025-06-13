@@ -1,7 +1,7 @@
 /**
  * Notes: 后台管理控制模块
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2021-03-15 19:20:00 
+ * Date: 2025-03-15 19:20:00 
  */
 
 const BaseAdminController = require('../../../../framework/platform/controller/base_admin_controller.js');

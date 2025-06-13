@@ -1,7 +1,7 @@
 /**
  * Notes: 云函数业务主逻辑
  * Ver : CCMiniCloud Framework 2.8.1 ALL RIGHTS RESERVED BY cclinUX0730 (wechat)
- * Date: 2020-09-05 04:00:00 
+ * Date: 2025-09-05 04:00:00 
  */
 const util = require('../utils/util.js');
 const cloudBase = require('../cloud/cloud_base.js');

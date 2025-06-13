@@ -1,7 +1,7 @@
 /**
  * Notes: 文件处理相关函数
  * Ver : CCMiniCloud Framework 2.7.1 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2022-02-05 04:00:00 
+ * Date: 2025-02-05 04:00:00 
  */
 const pageHelper = require('./page_helper.js');
 const timeHelper = require('./time_helper.js');

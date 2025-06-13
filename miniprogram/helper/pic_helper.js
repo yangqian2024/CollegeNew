@@ -1,7 +1,7 @@
 /**
  * Notes: 图片处理相关函数
  * Ver : CCMiniCloud Framework 2.0.13 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2021-10-25 04:00:00 
+ * Date: 2025-10-25 04:00:00 
  */
 
 

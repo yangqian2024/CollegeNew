@@ -2,7 +2,7 @@
  * Notes: 路由配置文件
   * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
  * User: CC
- * Date: 2020-10-14 07:00:00
+ * Date: 2025-10-14 07:00:00
  */
 
 module.exports = {

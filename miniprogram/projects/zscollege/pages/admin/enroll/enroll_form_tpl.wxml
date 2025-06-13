@@ -29,7 +29,7 @@
 
 	<view class="form-group arrow" id="formStart">
 		<view class="title must">开始时间</view>
-		<cmpt-picker-time mark="formStart" mode="fullminute" timeModeStep="5" bind:select="url" data-type="picker" data-item="formStart" endYear="2025" item="{{formStart}}">
+		<cmpt-picker-time mark="formStart" mode="fullminute" timeModeStep="5" bind:select="url" data-type="picker" data-item="formStart" endYear="2028" item="{{formStart}}">
 			<view class="form-text">{{formStart||'请选择'}}</view>
 		</cmpt-picker-time>
 	</view>
@@ -37,7 +37,7 @@
 
 	<view class="form-group arrow" id="formEnd">
 		<view class="title must">截止时间</view>
-		<cmpt-picker-time mark="formEnd" mode="fullminute" timeModeStep="5" bind:select="url" data-type="picker" data-item="formEnd" endYear="2025" item="{{formEnd}}">
+		<cmpt-picker-time mark="formEnd" mode="fullminute" timeModeStep="5" bind:select="url" data-type="picker" data-item="formEnd" endYear="2028" item="{{formEnd}}">
 			<view class="form-text">{{formEnd||'请选择'}}</view>
 		</cmpt-picker-time>
 	</view>

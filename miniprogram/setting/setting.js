@@ -1,6 +1,6 @@
 module.exports = {
 	//### 环境相关 
-	CLOUD_ID: 'dev-5gf0o85o226fad1d', //云服务id ,本地测试环境 
+	CLOUD_ID: 'cloud1-3go08kosfd9d453c', //云服务id ,本地测试环境 
 
 	// #### 版本信息 
 	VER: 'build 2022.08.14',

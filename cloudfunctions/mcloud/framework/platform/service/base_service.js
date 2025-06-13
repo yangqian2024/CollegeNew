@@ -1,7 +1,7 @@
 /**
  * Notes: 基础业务逻辑
  * Ver : CCMiniCloud Framework 2.0.9 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2022-04-24 04:00:00 
+ * Date: 2025-04-24 04:00:00 
  */
 
 const AppError = require('../../core/app_error.js');

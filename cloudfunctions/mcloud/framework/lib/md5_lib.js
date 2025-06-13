@@ -1,7 +1,7 @@
 /**
  * Notes: MD5类库
  * Ver : CCMiniCloud Framework 2.15.1 ALL RIGHTS RESERVED BY cClinux0730 (wechat)
- * Date: 2021-03-01 14:00:00 
+ * Date: 2025-03-01 14:00:00 
  */
 
 function safe_add(x, y) {

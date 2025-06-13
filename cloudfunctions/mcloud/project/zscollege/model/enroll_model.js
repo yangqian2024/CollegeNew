@@ -1,7 +1,7 @@
 /**
  * Notes: 表格实体
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2022-06-23 19:20:00 
+ * Date: 2025-06-23 19:20:00 
  */
 
 const BaseProjectModel = require('./base_project_model.js');

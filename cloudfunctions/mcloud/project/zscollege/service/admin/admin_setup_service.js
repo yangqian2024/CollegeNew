@@ -1,7 +1,7 @@
 /**
  * Notes: 设置管理
  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY cclinux0730 (wechat)
- * Date: 2021-07-11 07:48:00 
+ * Date: 2025-07-11 07:48:00 
  */
 
 const BaseProjectAdminService = require('./base_project_admin_service.js');
